@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <Item Name="Vase" BasePrice="100" Owned="0" />
+  <Item Name="Pot" BasePrice="50" Owned="0" />
+  <Item Name="Sword" BasePrice="150" Owned="1" />
+  <Item Name="Mona lisa" BasePrice="1000" Owned="0" />
+  <Item Name="Shield" BasePrice="30" Owned="0" />
+  <Item Name="Small pyramid" BasePrice="1" Owned="1" />
+  <Item Name="Newton's apple" BasePrice="321" Owned="0" />
+  <Item Name="Shoes" BasePrice="250" Owned="0" />
+  <Item Name="Book" BasePrice="10" Owned="0" />
+  <Item Name="Map" BasePrice="78" Owned="1" />
+</Items>

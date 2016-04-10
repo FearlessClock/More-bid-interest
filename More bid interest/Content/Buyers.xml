@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Buyers>
+  <Buyer Name="John" Money="10000" MashSpeed="1" />
+  <Buyer Name="Mark" Money="10000" MashSpeed="2" />
+  <Buyer Name="Susan" Money="10000" MashSpeed="3" />
+  <Buyer Name="Brian" Money="10000" MashSpeed="1" />
+  <Buyer Name="The Black Night" Money="10000" MashSpeed="2" />
+  <Buyer Name="Uncle Bob" Money="10000" MashSpeed="1" />
+  <Buyer Name="James" Money="10000" MashSpeed="5" />
+  <Buyer Name="Umpa Lumpa" Money="10000" MashSpeed="5" />
+  <Buyer Name="Sally" Money="10000" MashSpeed="2" />
+</Buyers>

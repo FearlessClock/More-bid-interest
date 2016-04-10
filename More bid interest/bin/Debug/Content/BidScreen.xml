@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Screen>
+  <Startup NmbrOfScreens="5" Title="Bidding!"/>
+  <Windows>
+    <Window X="0" Y="20" W="300" H="60" text="First Item:Second item"/>
+    <Window X="320" Y="20" W="290" H="60" text="Computer 2 just bid 100$:Computer 3 left"/>
+    <Window X="320" Y="170" W="400" H="40" text="Remaining Time"/>
+    <Window X="0" Y="300" W="600" H="100" text="Nothing is written here"/>
+    <Window X="0" Y="220" W="600" H="100" text="Nothing is written here"/>
+    <Window X="0" Y="190" W="300" H="40" text="Go to the main menu:Go to the Empire"/>
+  </Windows>
+</Screen>

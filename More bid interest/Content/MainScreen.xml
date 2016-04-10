@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Screen>
+  <Startup NmbrOfScreens="2" Title="Main Menu!"/>
+  <Windows>
+    <Window X="0" Y="20" W="350" H="4" text="The next bid round starts in 10 minutes:Get your items ready"/>
+    <Window X="400" Y="20" W="290" H="4" text="Your empire is doing well:Next empire level at 500$"/>
+    <Window X="0" Y="100" W="300" H="10" text="Go to the bidding screen:Go to the Empire screen:Exit the game"/>
+  </Windows>
+</Screen>
