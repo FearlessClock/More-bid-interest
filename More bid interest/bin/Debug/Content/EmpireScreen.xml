@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Screen>
+  <Startup NmbrOfScreens="2" Title="Your empire!"/>
+  <Windows>
+    <Window X="0" Y="20" W="300" H="40" text="The empire is producing 5 silk:The empire is producing 7 gold"/>
+    <Window X="330" Y="20" W="300" H="40" text="Your empire is currently at level :0"/>
+    <Window X="0" Y="125" W="300" H="100" text="Go to the Main menu:Go to the bidding screen:Go up another level:Upgrade the money bank"/>
+  </Windows>
+</Screen>

@@ -1,0 +1,61 @@
+c:\users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\More bid interest.exe.config
+c:\users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\obj\Debug\More bid interest.csprojResolveAssemblyReference.cache
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\More bid interest.exe
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\More bid interest.pdb
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\OpenTK.dll
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\OpenTK.xml
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\obj\Debug\More bid interest.exe
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\obj\Debug\More bid interest.pdb
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\MainScreen.xml
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\BidScreen.xml
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\EmpireScreen.xml
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Items.xml
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Buyers.xml
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\0.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\1.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\2.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\3.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\4.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\5.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\6.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\7.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\8.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\A.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\B.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\C.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\ClosedParanthese.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\Comma.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\D.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\E.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\empty.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\F.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\G.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\H.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\I.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\J.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\K.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\L.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\M.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\N.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\O.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\OpenParanthese.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\P.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\Point.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\Q.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\R.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\S.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\Space.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\T.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\U.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\V.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\W.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\X.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\Y.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\Z.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\9.png
+C:\Users\piete_000\Documents\Visual Studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\texture.PNG
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\#.png
+C:\Users\piete_000\documents\visual studio 2015\Projects\More bid interest\More bid interest\bin\Debug\Content\Alphabet\!.png
+C:\Users\piete_000\Documents\GitHub\More-bid-interest\More bid interest\bin\Debug\More bid interest.exe.config
+C:\Users\piete_000\Documents\GitHub\More-bid-interest\More bid interest\obj\Debug\More bid interest.exe
+C:\Users\piete_000\Documents\GitHub\More-bid-interest\More bid interest\obj\Debug\More bid interest.pdb
